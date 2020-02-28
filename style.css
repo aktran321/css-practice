@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  background-color: gray;
+  float: right;
+}
+li a {
+  display: block;
+  border: solid black 1px;
+}
+
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+
+h1 {
+  background-color: red;
+}
